@@ -1,5 +1,10 @@
 # Change Log
 
+## v2.2.3 (2022-01-03)
+
+### Fixed
+- Change separator currency KH
+
 ## v2.2.2 (2021-12-07)
 
 ### Changed
@@ -7,8 +12,8 @@
 
 ## v2.2.1 (2021-12-07)
 
-### Changed
-- Update separator currency PH
+### Fixed
+- Change separator currency PH
 
 ## v2.2 (2021-11-25)
 
